@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: #F4F8FF;
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;   
+}
+.inp{
+    margin-top: 12px;
+}
+.btn{
+    margin-top: 20px;
+}
+.text{
+    font-family: "Open Sans";
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 44.8px;
+    letter-spacing: 3%;
+}
+.subText{
+        font-family: "Roboto";
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 67.2px;
+        letter-spacing: 3%;
+}

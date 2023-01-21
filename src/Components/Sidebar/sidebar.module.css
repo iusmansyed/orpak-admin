@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  width:250 ;
+}
+.mainDiv {
+    margin-top: -20px;
+  width: 250px;
+  min-height: 100vh;
+  box-shadow: 0px 0px 10px #939597;
+  position: fixed;
+}
+.optn {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  min-height: 8vh;
+  align-items: center;
+  cursor: pointer;
+}
+.optn div {
+  margin: 10px;
+}
+.optn div p {
+  font-family: "Open Sans";
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 28px;
+}

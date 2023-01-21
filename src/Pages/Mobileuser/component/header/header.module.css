@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.mainDiv {
+  min-height: 30vh;
+  padding-left: 250px;
+  
+}
+.s {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.subDiv {
+  height: 10vh;
+}
+.search {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.Dropdown {
+  width: 250px;
+  margin-left: 20px;
+  margin-top: 35px;
+}
+.text {
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 400;
+  color: #727f89;
+}
+.Dropdown p {
+  position: relative;
+  bottom: 5px;
+}
+.excel{
+    position: relative;
+    top: 28px;
+    right: 20px;
+}

@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mainDiv{
+    display: flex;
+    align-items: center;
+}
+.search{
+    position: relative;
+right: 45px;
+}

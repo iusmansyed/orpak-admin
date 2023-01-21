@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mainDiv input{
+    width: 380px;
+    height: 36px;
+    font-size: 16px;
+    padding: 5px;
+    border: none;
+    outline-color:#727F89 ;
+color: #666666;
+}
